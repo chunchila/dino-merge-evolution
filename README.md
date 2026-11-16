@@ -3,7 +3,7 @@
 משחק מיזוג בעברית, בקובץ HTML יחיד. איורי SVG מקוריים, ללא ספריות, התקנות או נכסים חיצוניים.
 
 ## משחק חי
-https://dino-games-1cj3thm2k-romans-projects-97b8739c.vercel.app/
+https://dino-games-q4b7d1pa3-romans-projects-97b8739c.vercel.app/
 
 ## איך משחקים
 - נוגעים בשתי ביצים זהות או גוררים אחת לשנייה כדי לגלות דינוזאור.
